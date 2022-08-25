@@ -1,3 +1,0 @@
-This is my first sample file.
-
-Updating some changes in this file now.
